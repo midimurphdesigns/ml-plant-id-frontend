@@ -1,0 +1,1 @@
+curl -X POST -F "image=@/Users/kevinmurphy/Downloads/plant1.jpeg" http://127.0.0.1:5000/predict
